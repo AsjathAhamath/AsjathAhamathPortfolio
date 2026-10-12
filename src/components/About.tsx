@@ -17,6 +17,7 @@ export const About: React.FC = () => {
   const coreSkills = [
     'PHP & Laravel',
     'React & React Native',
+    'Flutter & Dart',
     'C# & .NET',
     'JavaScript & TypeScript',
     'SQL Databases',
