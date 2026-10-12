@@ -34,7 +34,7 @@ export const About: React.FC = () => {
         <div className="text-left space-y-3 max-w-3xl mb-14">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#151821] border border-white/8 text-xs font-mono text-[#06B6D4]">
             <Sparkles className="w-3.5 h-3.5" />
-            <span>01 // BACKGROUND & PROFILE</span>
+            <span>01 // BACKGROUND & PROFILE </span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-bold tracking-tight text-white">
             About Me
