@@ -120,7 +120,7 @@ export const experiences: Experience[] = [
     id: 'gosetup-intern',
     role: 'Software Engineer Intern',
     company: 'GoSetup Pvt Ltd',
-    period: 'February 2026 – August 2026',
+    period: 'March 2026 – August 2026',
     location: 'Batticaloa, Eastern Province, Sri Lanka · Remote',
     responsibilities: [
       'Developed and maintained Laravel-based web application features using PHP, Laravel, and MySQL.',
