@@ -72,11 +72,56 @@ export const skillCategories: SkillCategory[] = [
 
 export const experiences: Experience[] = [
   {
+    id: 'freelance-web-developer',
+    role: 'Freelance Web Developer',
+    company: 'Fiverr',
+    period: 'September 2026 – Present',
+    location: 'Remote',
+    profileUrl: 'https://www.fiverr.com/s/qbD4Z7Z',
+    responsibilities: [
+      'Develop web applications and website features based on client requirements.',
+      'Build and maintain responsive user interfaces and backend functionality using modern web technologies.',
+      'Work on database integration, debugging, and application improvements to deliver reliable solutions.',
+      'Communicate with clients to understand project requirements and deliver solutions that meet their needs.',
+    ],
+    techStack: [
+      'PHP',
+      'Laravel',
+      'React',
+      'JavaScript',
+      'MySQL',
+      'REST APIs',
+      'Git',
+    ],
+  },
+  {
+    id: 'youtube-content-creator',
+    role: 'Founder & Tech Content Creator',
+    company: 'YouTube — Tech Talk With Mouse',
+    period: 'July 2026 – Present',
+    location: 'Sri Lanka',
+    profileUrl:'https://youtube.com/@techtalkwithmouse?si=F1ET89HjOtJSLdjB',
+    responsibilities: [
+      'Create short-form educational videos explaining software development, programming concepts, AI, and emerging technologies.',
+      'Research technical topics and write clear, beginner-friendly video scripts.',
+      'Edit videos, design thumbnails, and create visual assets to communicate technical concepts effectively.',
+      'Manage channel content, develop content strategies, and work on growing a technology-focused audience.',
+    ],
+    techStack: [
+      'Software Development',
+      'Technical Writing',
+      'Video Editing',
+      'Thumbnail Design',
+      'Content Strategy',
+      'YouTube SEO',
+    ],
+  },
+  {
     id: 'gosetup-intern',
     role: 'Software Engineer Intern',
     company: 'GoSetup Pvt Ltd',
     period: 'February 2026 – August 2026',
-    location: 'Colombo, Sri Lanka',
+    location: 'Batticaloa, Eastern Province, Sri Lanka · Remote',
     responsibilities: [
       'Developed and maintained Laravel-based web application features using PHP, Laravel, and MySQL.',
       'Implemented backend functionality, database operations, and application features based on project requirements.',

@@ -21,6 +21,7 @@ export interface Experience {
   company: string;
   period: string;
   location: string;
+  profileUrl?: string;
   responsibilities: string[];
   techStack: string[];
 }
